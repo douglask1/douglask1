@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Douglas  
 
-<!--
-**douglask1/douglask1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🔐 Foco em **Cibersegurança** e tecnologias de proteção digital  
+🛠 Experiência com **suporte técnico** em máquinas de cartão e câmeras sem fio  
+🚀 Apaixonado por criar soluções que realmente ajudam pessoas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, HTML, CSS  
+- **Cibersegurança:** Análise de vulnerabilidades, boas práticas de segurança  
+- **Ferramentas:** Git, VS Code, Linux, Wireshark  
+
+---
+
+### 📈 Atualmente aprendendo:
+- Pentest e testes de intrusão  
+- Redes e protocolos de comunicação  
+- Automação com Python para segurança  
+
+---
+
+📫 **Contato:**  
+[Linkedin](www.linkedin.com/in/douglas-ferreira-aureliano) | [E-mail](douglasfereira.au@gmail.com)  
